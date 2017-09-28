@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "put-notification-demo",
+    "description": "An empty new project",
+    "slug": "put-notification-demo",
+    "privacy": "public",
+    "sdkVersion": "21.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+    /*,"androidStatusBarColor": "#0D47A1"
+    ,"androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#0D47A1"
+    }*/
+  }
+}
